@@ -3,7 +3,7 @@
 An interactive pathfinding algorithm visualizer built with **Vite + React (JavaScript)**.
 Watch search algorithms explore a grid with a smooth animated wave, then trace the
 shortest path. Draw walls, drop weighted tiles, generate mazes, and drag the
-start/end nodes around. View at [site](michael-d-jia.github.io/pathfinding-visualizer)
+start/end nodes around. View at [site](https://michael-d-jia.github.io/pathfinding-visualizer)
 
 > **Status:** Breadth-First Search is fully implemented. Depth-First Search,
 > Dijkstra, and A\* are intentionally left as **stubs** for you to complete —
