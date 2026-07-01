@@ -5,6 +5,7 @@ Watch search algorithms explore a grid with a smooth animated wave, then trace t
 shortest path. Draw walls, drop weighted tiles, generate mazes, and drag the
 start/end nodes around. 
 
+## Demo
 - Live demo: [site](https://michael-d-jia.github.io/pathfinding-visualizer)
 
 > **Status:** Breadth-First Search is fully implemented. Depth-First Search,
