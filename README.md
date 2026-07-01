@@ -8,6 +8,8 @@ start/end nodes around.
 ## Demo
 - Live demo: [site](https://michael-d-jia.github.io/pathfinding-visualizer)
 
+**🔗 Live demo: [michael-d-jia.github.io/pathfinding-visualizer](https://michael-d-jia.github.io/pathfinding-visualizer)**
+
 > **Status:** Breadth-First Search is fully implemented. Depth-First Search,
 > Dijkstra, and A\* are intentionally left as **stubs** for you to complete —
 > see [What still needs to be worked on](#what-still-needs-to-be-worked-on).
